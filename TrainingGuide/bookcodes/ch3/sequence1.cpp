@@ -2,7 +2,7 @@
 // Rujia Liu
 // 输入格式：
 // n m     数组范围是a[1]~a[n]，初始化为0。操作有m个
-// 1 L R v 表示设a[L]+=v, a[L+1]+v, ..., a[R]+=v
+// 1 L R v 表示设a[L]+=v, a[L+1]+=v, ..., a[R]+=v
 // 2 L R   查询a[L]~a[R]的sum, min和max
 #include<cstdio>
 #include<cstring>
